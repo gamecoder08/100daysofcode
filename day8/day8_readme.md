@@ -3,8 +3,6 @@ Problem Statement: To return a duplicate email from the a table.
 For example:
 
 ```
-Example 1:
-
 Input:
 Person table:
 +----+---------+

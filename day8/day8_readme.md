@@ -22,7 +22,7 @@ Explanation: a@b.com is repeated two times.
 
 ```
 
-Language Used: Python
+Language Used: SQL
 
 Algorithm used:
 

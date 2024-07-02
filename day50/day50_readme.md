@@ -12,7 +12,7 @@ Language Used: C++
 
 Algorithm used:
 
-We are recursive approach for this question. First to filter out base cases, we check if the number is either equal to `1` or an odd number, and return `true` and `false` respectively. Also, for final case, we check if number is lesser than `4`, and then if it is equal to `2`, then return `true`, else return `false`. Now, we initialise a variable with dividing the number by `2`, and then call the function again with the initialised variable as the new argument. The code check if the number is power of two or not by recursive division.
+We will use recursive approach for this question. First to filter out base cases, we check if the number is either equal to `1` or an odd number, and return `true` and `false` respectively. Also, for final case, we check if number is lesser than `4`, and then if it is equal to `2`, then return `true`, else return `false`. Now, we initialise a variable with dividing the number by `2`, and then call the function again with the initialised variable as the new argument. The code check if the number is power of two or not by recursive division.
 
 Code Performance:
 

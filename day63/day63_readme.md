@@ -1,6 +1,6 @@
 Problem Statement: To guess the number is higher or lower.
 
-For example:
+Explaination:
 
 To guess from a number from 1 to `n` using a pre - defined function, `guess()`.
 The function returns:
@@ -8,6 +8,8 @@ The function returns:
     -1: guess is higher than the number(i.e. num > pick).
     1: guess is lower than the number(i.e. num < pick).
     0: guess is equal to the number(i.e. num == pick).
+
+For example:
 
 ```
 Input: n = 10, pick = 6

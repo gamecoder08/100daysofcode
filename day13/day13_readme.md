@@ -9,7 +9,7 @@ Output: [1,3,2]
 
 ```
 
-Technique Used: Vinary Tree, Stack
+Technique Used: Binary Tree, Stack
 
 Approach:
 

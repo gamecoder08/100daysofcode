@@ -1,3 +1,3 @@
 # 100daysofcode
 
-A repository to track my 100daysofcode challenge.
+A repository to track my progress on #100daysofcode challenge.
